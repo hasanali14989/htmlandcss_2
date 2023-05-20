@@ -1,0 +1,22 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+.hea{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+.headings{
+    color: rgb(13, 96, 124);
+    
+    
+}
+hr{
+    height: 2px;
+    background-color: black;
+    
+}
